@@ -1,0 +1,68 @@
+Tolga Han Arslan - 22003061 - https://github.com/TOLGA1123
+Favorite video game: valorant
+PS C:\Users\USER\Desktop\cs102\Labs\CS 102 Github Tutorial – Spring 2022> git log
+commit f46ee4e147ae8b2bb6c717b19192d56c0039a139 (HEAD -> main, origin/main)
+Merge: d820cb8 e6ef936
+Author: Tolgahan Arslan <90002820+TOLGA1123@users.noreply.github.com>
+Date:   Thu Feb 10 10:45:52 2022 +0300
+
+    Merge pull request #1 from TOLGA1123/new_information
+
+    Tolga Han Arslan updated info.txt
+
+commit e6ef936a465a654ff78293613617fc317bd2aca6 (origin/new_information, new_information)
+Author: Tolgahan Arslan <atolgahan53@gmail.com>
+Date:   Thu Feb 10 10:44:52 2022 +0300
+
+    Tolga Han Arslan updated info.txt
+:...skipping...
+commit f46ee4e147ae8b2bb6c717b19192d56c0039a139 (HEAD -> main, origin/main)
+Merge: d820cb8 e6ef936
+Author: Tolgahan Arslan <90002820+TOLGA1123@users.noreply.github.com>
+Date:   Thu Feb 10 10:45:52 2022 +0300
+
+    Merge pull request #1 from TOLGA1123/new_information
+    
+    Tolga Han Arslan updated info.txt
+
+commit e6ef936a465a654ff78293613617fc317bd2aca6 (origin/new_information, new_information)
+Author: Tolgahan Arslan <atolgahan53@gmail.com>
+Date:   Thu Feb 10 10:44:52 2022 +0300
+
+    Tolga Han Arslan updated info.txt
+
+commit d820cb8956f5505effb072d51c1cbf31b1614840
+Author: Tolgahan Arslan <atolgahan53@gmail.com>
+Date:   Thu Feb 10 10:28:00 2022 +0300
+
+    Tolga Han updated info.txt
+
+commit ba2c6359079ba127960c723100cabffc4aef1c2d
+Author: Tolgahan Arslan <atolgahan53@gmail.com>
+Date:   Thu Feb 10 10:26:52 2022 +0300
+
+    Some changes
+
+commit 7dd44ffcb135e80f07465903238842ad58c903b9
+Author: Tolgahan Arslan <90002820+TOLGA1123@users.noreply.github.com>
+Date:   Thu Feb 10 10:22:30 2022 +0300
+
+    Update info.txt
+
+commit 412ffa9387ec626f2f79ecd31993df5cf4e69a44
+Author: Tolgahan Arslan <90002820+TOLGA1123@users.noreply.github.com>
+Date:   Thu Feb 10 10:20:58 2022 +0300
+ 
+Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+  

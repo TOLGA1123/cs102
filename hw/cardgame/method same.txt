@@ -1,0 +1,24 @@
+ private static boolean play( Player p, CardGame game)
+  {
+    Card       c;
+    boolean    accepted;
+    
+    //accepted = false;  // ToDo...
+    if ((!game.isGameOver()) && (game.isTurnOf(p)))
+    {
+      if (game.playTurn( p , p.playCard()))
+    {
+      accepted = true;
+    }
+    else
+      accepted = false;
+    }
+    else
+    {
+      System.out.println("wrong turn....please play on your own turn.");
+      accepted = false;
+    }
+    
+    
+    return accepted;
+  }
